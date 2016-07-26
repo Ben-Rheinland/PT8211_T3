@@ -16,8 +16,8 @@
 <layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="yes"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="yes"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="26" name="bNames" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
@@ -201,6 +201,8 @@
 <text x="6.0325" y="15.875" size="0.8128" layer="26" font="vector" rot="MR225">3.3V</text>
 <text x="8.5725" y="15.875" size="0.8128" layer="26" font="vector" rot="MR225">LRCLK</text>
 <text x="11.1125" y="15.875" size="0.8128" layer="26" font="vector" rot="MR225">Tx</text>
+<dimension x1="0" y1="0" x2="27.94" y2="0" x3="13.97" y3="-0.9525" textsize="1.016" layer="47" width="0.1"/>
+<dimension x1="0" y1="0" x2="5.08" y2="17.78" x3="-0.635" y3="8.89" textsize="1.016" layer="47" dtype="vertical" width="0.1"/>
 </plain>
 <libraries>
 <library name="rcl">
